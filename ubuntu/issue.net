@@ -1,24 +1,4 @@
-<html>
-<body style="font-family: Arial, sans-serif; background-color: #f0f0f0; margin: 0; padding: 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-    <div style="background-color: #fff; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center;">
-      <h1 style="color: #333; margin-bottom: 20px;">NET BY Nony</h1>
-      <p style="color: #333;">ENJOY PREMIUM SCRIPT</p>
-      <p><span style="color: red;">System Uptime</span></p>
-      <p><span style="color: purple;">No torrenting</span></p>
-      <p><span style="background-color: #333; color: #fff; padding: 5px;">Unlimited</span></p>
-      <p><span style="color: green;">❛Loading❜</span></p>
-      <p><span style="color: aqua;">©2024</span></p>
+<p><span style="color: aqua;">©2024</span></p>
       <p><span style="color: blue;">POWERED</span> <span style="color: #fff;">&nbsp;And&nbsp;</span><span style="color: #FF5F15;">Working</span></p>
       <p><span style="color: grey;">WELCOME TO Premium Script☸</span></p>
       <p><span style="color: yellow;">V2.03</span></p>
-    </div>
-    <div style="margin-top: 20px;">
-      <svg width="500" height="500" viewBox="0 0 500 500">
-        <circle cx="250" cy="250" r="200" fill="#f0f0f0" />
-        <text x="250" y="250" text-anchor="middle" dominant-baseline="central" font-size="100" fill="#333">😐</text>
-      </svg>
-    </div>
-  </div>
-</body>
-</html>
