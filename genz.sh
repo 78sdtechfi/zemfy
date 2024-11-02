@@ -278,7 +278,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/78sdtechfi/zemfy/main/keygen"
+izinsc="https://raw.githubusercontent.com/78sdtechfi/genx/main/keygen"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
