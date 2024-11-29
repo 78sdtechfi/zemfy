@@ -1,4 +1,4 @@
-
+<!--
 <!-- Github README -->
 
 </i></b></h3>
@@ -65,3 +65,5 @@ wget https://raw.githubusercontent.com/78sdtechfi/zemfy/main/update.sh && chmod 
 ### TELEGRAM
 <p align="center"><b>
 <a href="https://t.me/7chi" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+
+-->
