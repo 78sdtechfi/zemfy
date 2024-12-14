@@ -1,26 +1,3 @@
-REPO="https://raw.githubusercontent.com/Amchapeey/strategic/main/"
-wget -q -O /etc/systemd/system/limitvmess.service "${REPO}ubuntu/limitvmess.service" && chmod +x limitvmess.service >/dev/null 2>&1
-wget -q -O /etc/systemd/system/limitvless.service "${REPO}ubuntu/limitvless.service" && chmod +x limitvless.service >/dev/null 2>&1
-wget -q -O /etc/systemd/system/limittrojan.service "${REPO}ubuntu/limittrojan.service" && chmod +x limittrojan.service >/dev/null 2>&1
-wget -q -O /etc/systemd/system/limitshadowsocks.service "${REPO}ubuntu/limitshadowsocks.service" && chmod +x limitshadowsocks.service >/dev/null 2>&1
-wget -q -O /etc/xray/limit.vmess "${REPO}ubuntu/vmess" >/dev/null 2>&1
-wget -q -O /etc/xray/limit.vless "${REPO}ubuntu/vless" >/dev/null 2>&1
-wget -q -O /etc/xray/limit.trojan "${REPO}ubuntu/trojan" >/dev/null 2>&1
-wget -q -O /etc/xray/limit.shadowsocks "${REPO}ubuntu/shadowsocks" >/dev/null 2>&1
-chmod +x /etc/xray/limit.vmess
-chmod +x /etc/xray/limit.vless
-chmod +x /etc/xray/limit.trojan
-chmod +x /etc/xray/limit.shadowsocks
-systemctl daemon-reload
-systemctl enable --now limitvmess
-systemctl enable --now limitvless
-systemctl enable --now limittrojan
-systemctl enable --now limitshadowsocks
-# systemctl start limitvmess
-# systemctl start limitvless
-# systemctl start limittrojan
-# systemctl start limitshadowsocks
-# systemctl restart limitvmess
-# systemctl restart limitvless
-# systemctl restart limittrojan
-# systemctl restart limitshadowsocks
+z="
+";DBz='bunt';Sz=' -q ';NBz='/dev';aBz='sock';gz='/lim';RCz='oad';Vz='syst';MBz='ce >';ICz='.tro';FBz='mitt';IBz='e" &';fz='untu';XCz='an';RBz='shad';wBz='it.s';cz='e "$';nBz='less';Zz='vmes';qz='>/de';JBz='& ch';SCz='l en';Mz='y/st';uz='vles';BBz='${RE';pBz='n "$';yBz='wsoc';CCz=' /et';oz=' lim';HBz='n.se';xBz='hado';TBz='cks.';ACz='ks "';WCz='s';tBz='ev/n';SBz='owso';tz='>&1';Wz='emd/';WBz='ubun';Kz='Amch';kz='ice"';DCz='c/xr';ez='O}ub';oBz='it.t';rBz='jan"';bBz='e >/';Dz='//ra';BCz='u/sh';Cz='tps:';VBz='EPO}';TCz='able';vz='itvl';HCz='.vle';CBz='PO}u';MCz='ocks';mz='chmo';UBz='"${R';bz='rvic';ABz='ce "';rz='v/nu';Oz='gic/';yz='ervi';az='s.se';OCz='l da';gBz='xray';iz='ess.';Xz='em/l';QCz='-rel';QBz='&1';nz='d +x';GCz='ss';Uz='etc/';fBz='1';hBz='it.v';iBz='mess';Jz='com/';uBz='ull ';eBz=' 2>&';XBz='tu/l';Fz='thub';pz='ice ';Qz='/"';PCz='emon';OBz='/nul';qBz='/tro';Ez='w.gi';EBz='u/li';lBz='ntu/';dz='{REP';Iz='ent.';dBz='null';Pz='main';jBz=' "${';Gz='user';UCz=' --n';KBz='mod ';sBz=' >/d';YCz='cks';Nz='rate';Az='REPO';Yz='imit';Lz='apee';KCz='.sha';ECz='ay/l';NCz='emct';ZBz='adow';jz='serv';Rz='wget';YBz='itsh';xz='an.s';Bz='="ht';wz='troj';Tz='-O /';GBz='roja';VCz='ow l';JCz='jan';sz='ll 2';kBz='}ubu';Hz='cont';mBz='s" >';LBz='+x l';FCz='.vme';cBz='dev/';lz=' && ';LCz='dows';vBz='2>&1';PBz='l 2>';hz='itvm';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$z$Rz$Sz$Tz$Uz$Vz$Wz$Vz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$hz$iz$jz$pz$qz$rz$sz$tz$z$Rz$Sz$Tz$Uz$Vz$Wz$Vz$Xz$Yz$uz$az$bz$cz$dz$ez$fz$gz$vz$iz$jz$kz$lz$mz$nz$oz$vz$iz$jz$pz$qz$rz$sz$tz$z$Rz$Sz$Tz$Uz$Vz$Wz$Vz$Xz$Yz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$bz$IBz$JBz$KBz$LBz$Yz$wz$xz$yz$MBz$NBz$OBz$PBz$QBz$z$Rz$Sz$Tz$Uz$Vz$Wz$Vz$Xz$Yz$RBz$SBz$TBz$jz$pz$UBz$VBz$WBz$XBz$Yz$RBz$SBz$TBz$jz$kz$lz$mz$nz$oz$YBz$ZBz$aBz$az$bz$bBz$cBz$dBz$eBz$fBz$z$Rz$Sz$Tz$Uz$gBz$gz$hBz$iBz$jBz$Az$kBz$lBz$Zz$mBz$NBz$OBz$PBz$QBz$z$Rz$Sz$Tz$Uz$gBz$gz$hBz$nBz$jBz$Az$kBz$lBz$uz$mBz$NBz$OBz$PBz$QBz$z$Rz$Sz$Tz$Uz$gBz$gz$oBz$GBz$pBz$dz$ez$fz$qBz$rBz$sBz$tBz$uBz$vBz$z$Rz$Sz$Tz$Uz$gBz$gz$wBz$xBz$yBz$ACz$BBz$CBz$DBz$BCz$ZBz$aBz$mBz$NBz$OBz$PBz$QBz$z$mz$nz$CCz$DCz$ECz$Yz$FCz$GCz$z$mz$nz$CCz$DCz$ECz$Yz$HCz$GCz$z$mz$nz$CCz$DCz$ECz$Yz$ICz$JCz$z$mz$nz$CCz$DCz$ECz$Yz$KCz$LCz$MCz$z$Vz$NCz$OCz$PCz$QCz$RCz$z$Vz$NCz$SCz$TCz$UCz$VCz$Yz$Zz$WCz$z$Vz$NCz$SCz$TCz$UCz$VCz$Yz$uz$WCz$z$Vz$NCz$SCz$TCz$UCz$VCz$Yz$wz$XCz$z$Vz$NCz$SCz$TCz$UCz$VCz$Yz$RBz$SBz$YCz"
