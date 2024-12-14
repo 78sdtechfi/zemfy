@@ -1,3 +1,47 @@
-z="
-";ODz='id)';GCz='es/$';cCz='/api';QDz='RESU';vDz='conf';CDz='onte';MBz='stat';sDz='b/ky';Cz='get ';Mz='"';kCz='nes/';jCz='4/zo';SDz='UT "';VCz='0 ]]';Sz='tr -';tBz='LX G';ZCz='OST ';fDz='main';BDz='","c';RBz='X-Au';dz='omai';Bz='=$(w';rCz='--da';hBz='n/js';fCz='are.';JDz='roxi';JBz='?nam';bz='ub}.';sCz='ta '\''';lz='EY="';mBz='ult[';lBz='.res';RCz='{#RE';NDz='ult.';oCz='reco';Zz='dns=';Lz='inmu';sBz='l -s';QCz='[ "$';SCz='CORD';QBz='-H "';WCz='; th';YDz='echo';PDz='fi';Ez=' ica';eBz=': ap';Vz='9 | ';oDz='=$dn';pBz='RECO';Nz='sub=';KCz='ecor';Dz='-qO-';Xz=' -c5';HCz='{ZON';ez='nmu"';ABz='tps:';uCz='pe":';WBz='th-K';bBz='Cont';PBz='e" \';jz='.com';pDz='s" >';aDz='ns" ';vz='=$(c';DBz='oudf';DCz='lien';JCz='ns_r';ICz='E}/d';cDz='oot/';nz='ele"';KDz='ed":';cz='subd';ACz='dfla';yBz='clou';jDz='tc/v';nCz='dns_';oz='apt ';qDz=' /va';aBz='}" \';PCz='if [';gCz='com/';Iz='DOMA';Jz='IN="';xz=' GET';NCz='${dn';gDz='> /e';FDz='}'\''",';yCz=''\''${d';BBz='//ap';mDz='ain';YBz='${CF';yz=' "ht';iBz='on" ';Fz='nhaz';vCz='"A",';XCz='en';Az='MYIP';LCz='ds?n';uBz='ET "';Qz='uran';UBz='D}" ';IDz='0,"p';XDz='e}'\'')';lCz='${ZO';pCz='rds"';kBz=' -r ';LDz='fals';fz='CF_I';YCz='LX P';EDz='"'\''${';gz='D="e';OBz='ctiv';Hz='om)';UCz='le 1';vBz='http';TDz='ds/$';fBz='plic';qBz='RD=$';sz='url ';Tz='dc a';wCz='"nam';ADz='ns}'\''';VDz='ORD}';kDz='2ray';mz='keyt';tz='-y';xBz='api.';dCz='.clo';EBz='lare';Wz='head';hCz='clie';tCz='{"ty';uz='ZONE';qCz=' \';CBz='i.cl';KBz='e=${';iCz='nt/v';BCz='re.c';eCz='udfl';TBz=': ${';HBz='v4/z';Rz='dom ';FBz='/cli';tDz='t/ip';MDz='e}'\'' ';hz='mail';aCz='"htt';GDz='"ttl';FCz='/zon';DDz='nt":';dDz='in';Pz='dev/';HDz='":12';hDz='tc/x';oBz='d)';wz='-sLX';pz='inst';MCz='ame=';xCz='e":"';bDz='> /r';nBz='0].i';uDz='vps.';WDz='" \';kz='CF_K';TCz='}" -';cBz='ent-';gBz='atio';LBz='IN}&';wBz='s://';GBz='ent/';iz='mu@g';eDz='scdo';Kz='doma';RDz='LT=$';qz='all ';Oz='$(</';jBz='| jq';az='"${s';SBz='th-E';UDz='{REC';mCz='NE}/';NBz='us=a';rDz='r/li';XBz='ey: ';iDz='ray/';bCz='ps:/';Uz='-z0-';dBz='Type';OCz='s}" ';lDz='/dom';IBz='ones';ZDz=' "$d';Gz='ip.c';VBz='\';ECz='t/v4';rBz='(cur';Yz=')';ZBz='_KEY';rz='jq c';CCz='om/c';nDz=' "IP';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Zz$az$bz$cz$dz$ez$z$fz$gz$hz$iz$hz$jz$Mz$z$kz$lz$mz$nz$z$oz$pz$qz$rz$sz$tz$z$uz$vz$sz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$jz$FBz$GBz$HBz$IBz$JBz$KBz$Iz$LBz$MBz$NBz$OBz$PBz$z$QBz$RBz$SBz$hz$TBz$fz$UBz$VBz$z$QBz$RBz$WBz$XBz$YBz$ZBz$aBz$z$QBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$VBz$z$QBz$RBz$SBz$hz$TBz$fz$UBz$VBz$z$QBz$RBz$WBz$XBz$YBz$ZBz$aBz$z$QBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$z$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$z$pBz$qBz$rBz$sBz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$z$QBz$RBz$SBz$hz$TBz$fz$UBz$VBz$z$QBz$RBz$WBz$XBz$YBz$ZBz$aBz$z$QBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$VBz$z$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$Az$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$jBz$kBz$lBz$NDz$ODz$z$PDz$z$QDz$RDz$rBz$sBz$YCz$SDz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$TDz$UDz$VDz$WDz$z$QBz$RBz$SBz$hz$TBz$fz$UBz$VBz$z$QBz$RBz$WBz$XBz$YBz$ZBz$aBz$z$QBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$VBz$z$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$Az$FDz$GDz$HDz$IDz$JDz$KDz$LDz$XDz$z$YDz$ZDz$aDz$bDz$cDz$Kz$dDz$z$YDz$ZDz$aDz$bDz$cDz$eDz$fDz$z$YDz$ZDz$aDz$gDz$hDz$iDz$Kz$dDz$z$YDz$ZDz$aDz$gDz$jDz$kDz$lDz$mDz$z$YDz$ZDz$aDz$gDz$hDz$iDz$eDz$fDz$z$YDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz"
+#!/bin/bash
+
+# Set variables
+MYIP=$(wget -qO- icanhazip.com)
+DOMAIN="domainmu"
+sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
+dns="${sub}.subdomainmu"
+CF_ID="emailmu@gmail.com"
+CF_KEY="keytele"
+
+# Install dependencies
+apt install jq curl -y
+
+# Set up Cloudflare API
+ZONE=$(curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=${DOMAIN}&status=active" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "X-Auth-Key: ${CF_KEY}" \
+     -H "Content-Type: application/json" | jq -r .result[0].id)
+
+RECORD=$(curl -sLX GET "https://api.cloudflare.com/client/v4/zones/${ZONE}/dns_records?name=${dns}" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "X-Auth-Key: ${CF_KEY}" \
+     -H "Content-Type: application/json" | jq -r .result[0].id)
+
+# Create or update DNS record
+if [[ "${#RECORD}" -le 10 ]]; then
+     RECORD=$(curl -sLX POST "https://api.cloudflare.com/client/v4/zones/${ZONE}/dns_records" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "X-Auth-Key: ${CF_KEY}" \
+     -H "Content-Type: application/json" \
+     --data '{"type":"A","name":"'${dns}'","content":"'${MYIP}'","ttl":120,"proxied":false}' | jq -r .result.id)
+fi
+
+# Update DNS record
+RESULT=$(curl -sLX PUT "https://api.cloudflare.com/client/v4/zones/${ZONE}/dns_records/${RECORD}" \
+     -H "X-Auth-Email: ${CF_ID}" \
+     -H "X-Auth-Key: ${CF_KEY}" \
+     -H "Content-Type: application/json" \
+     --data '{"type":"A","name":"'${dns}'","content":"'${MYIP}'","ttl":120,"proxied":false}')
+
+# Write DNS record to files
+echo "$dns" > /root/domain
+echo "$dns" > /root/scdomain
+echo "$dns" > /etc/xray/domain
+echo "$dns" > /etc/v2ray/domain
+echo "$dns" > /etc/xray/scdomain
+echo "IP=$dns" > /var/lib/kyt/ipvps.conf
