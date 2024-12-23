@@ -1,3 +1,175 @@
-z="
-";qz=' Ins';YIz='ecn ';Fz='n='\''\';MJz='etfi';WCz='BR.\';mHz='ore ';dJz='pSec';aDz='& [ ';IHz='_por';QFz=' = 0';AJz='_thr';Hz='32m'\''';tJz='oot/';Mz=''\''';gz=' 𝐁�';gBz='k_An';uEz='net=';lEz='/sys';JIz='fq"';wCz='core';kJz='mitN';oEz='" "n';dIz='m.sw';oJz='.\e[';XDz='ep b';WIz='cs_s';EEz='_Par';wDz='led ';TDz='v4.t';IKz='ess!';DEz='mize';eDz='.ipv';pIz='1280';cFz='t_us';jFz='= 51';RIz='ent_';tBz='ine ';LBz='if [';UFz=' 2"';pBz='| gr';sHz='auto';iHz='192"';wGz='rfc1';GKz='ion ';KBz='){';JKz=' \e[';VBz='then';hIz='erco';vCz='net.';HKz='Succ';cCz='g To';WEz='* so';hCz='_bbr';eBz='}';Yz='ing ';KEz='rame';iz='NY �';UBz='  ];';FKz='llat';fIz='ness';pFz='864"';CFz='ward';oz='Wait';AIz='syn_';BKz='0m'\''';tFz='em_m';mIz='r_hu';aCz='mSta';MBz=' "$(';Xz='tall';bGz='.rp_';uCz='sctl';Cz='1;31';sEz='.rou';LEz='ters';uz='tart';ADz='_qdi';NEz='conn';fGz='keep';OEz='trac';QJz='x = ';wJz='/dev';aHz='0 67';eEz=' sof';sFz='optm';gHz='_min';OBz=' -n1';HIz='qdis';GEz='ers(';CJz='=819';jIz='_mem';KJz='2144';MDz='sysc';sz='n Wi';RDz='l ne';MHz='24 6';Wz='"Ins';ODz='p';EBz='/sbi';FGz='nore';KHz='nge ';tz='ll S';fHz='udp_';cBz=' "$1';aGz='= 0"';LDz='r"';CCz='====';rHz='2"';OGz='ror_';SJz='44"';gJz='mitC';sBz='" ];';wHz='rt_a';lCz='s-lo';EDz='.tcp';cIz='" "v';bEz='* ha';DDz='ipv4';cGz='filt';lJz='OFIL';IIz='c = ';Ez='gree';DFz='= 1"';QDz='ysct';yEz='rd =';rFz='_def';XJz='tem.';LGz='ore_';rEz='.all';rIz='erne';Bz=''\''\e[';ZDz=' ] &';JJz='= 26';rJz='rm -';Nz='oran';Dz='m'\''';DGz='_ech';RFz='.acc';rBz='$2")';bJz='meou';XGz='d_re';MIz='on_c';iGz='me =';PCz='bbr)';NGz='s_er';SCz='cesf';xIz='faul';SHz=' 200';WHz=' = 3';lz='�"';iDz='tion';TEz='urit';PDz='"$(s';vGz='ooki';Vz=' -e ';PBz=' $1 ';MCz='smod';rDz=' Suc';RCz='mSuc';ABz='touc';SDz='t.ip';RGz='s = ';WGz='.sen';nEz='conf';RBz=' -l)';oFz='7108';Oz='ge='\''';tHz='cork';pEz='et.i';RJz='2621';pGz=' = 5';GJz='esh1';AFz=' 1"';uHz='slow';fFz='" "#';kFz='200"';yz='p 5';HBz='To_N';GDz='gest';hJz='ORE=';Zz='𝐓𝐂';bz='�𝐁�';VHz='open';GIz='ult_';TGz='rect';xBz='BBR(';sJz='f /r';WDz='able';vHz='_sta';CBz='sr/l';UGz='.sec';kDz='" ] ';CIz='log ';xFz='soma';hGz='e_ti';BBz='h /u';XHz=' = 4';LCz='"$(l';wEz='ip_f';Qz='NC='\''';NCz=' | g';QBz='| wc';mEz='ctl.';iBz='d_Li';NJz='lter';qJz='ers';VEz='mits';yGz='time';tGz='es =';sIz='l.pi';pDz='en';ICz='..\e';Pz=';33m';LJz='et.n';dBz='"';mGz='= 15';eJz='=30s';HJz='=204';FHz='fin_';cHz='64"';vBz='Inst';KDz='= bb';TBz=' "0"';XFz='netd';Sz='r';bHz='1088';bIz='frto';KFz='_ipv';iEz='00"';xJz='/nul';HGz='_bro';qGz='syna';JBz='ine(';vFz=' 655';ZHz='8738';aIz='fall';CEz='Opti';GGz='_all';iJz='infi';xEz='orwa';OHz='max_';nJz=' Opt';hFz='ile-';gIz='m.ov';HDz='ion_';tEz='te_l';UHz='fast';HEz='mOpt';gFz='fs.f';qBz='ep "';HHz='ip_l';yBz='"\e[';fEz='t no';KGz='_ign';nBz='at "';nFz=' = 6';iFz='max ';XIz='ave ';OFz='ble_';MFz='0"';aJz='ltTi';UJz='nntr';sGz='etri';XEz='ft n';xz='slee';gDz='p_co';EJz='=409';FDz='_con';Iz='purp';yJz='l 2>';JGz='sts ';nz='ase ';GFz='forw';dHz='6553';ZEz='e 65';vDz='mFai';UDz='cp_a';GHz='out ';sDz='cess';ZJz='efau';eCz='modp';PJz='k_ma';fBz='Chec';DJz='esh2';fDz='4.tc';nHz='= 2"';QHz='ucke';wIz='h.de';VIz='no_m';wz='."';SIz='lowa';ZCz='rn 1';KIz='cong';SBz='" ==';dFz='ecs ';cz='� 𝐏';KKz='p 3';VJz='ack_';MEz=' ip_';kEz='d no';yFz='xcon';NFz='disa';QIz='nots';UEz='y/li';vz='. . ';cJz='tSto';IFz='ng =';fCz='robe';sCz='bbr"';SEz='/sec';eFz='= 50';ACz='32;1';yDz='nsta';jDz='trol';PHz='tw_b';aBz=' "$2';IEz='imiz';LFz='6 = ';IBz='ew_L';hDz='nges';EIz='000"';YDz='br)"';FFz='.lo.';Lz=';35m';pJz='BBR';XCz='e[0m';TFz='ra =';UIz='4"';HFz='ardi';Jz='le='\''';wBz='all_';QCz='0;32';tCz='c/sy';TIz='1638';qDz='mTCP';YEz='ofil';iCz='"/et';oIz='ges=';PIz=' bbr';tIz='d_ma';EGz='o_ig';jEz=' har';jGz=' 120';NIz='ontr';mDz='"tcp';BHz='ps =';kz='�𝐑�';EFz='pv6.';YFz='ev_b';dCz='...\';OCz='rep ';bFz='5000';pHz='ounc';xGz='337 ';mJz='E=65';VFz='et.c';DCz='=\e[';lDz='&& [';YJz='" "D';az='𝐏 �';EHz=' = 1';WFz='ore.';aEz='535"';JFz='.dis';lHz='.arp';EKz='   I';gGz='aliv';bCz='rtin';CGz='icmp';BIz='back';oHz='_ann';HCz='BBR.';bBz='" >>';oBz='$1" ';OJz='.nf_';DIz='= 30';VCz='CP B';Az='red=';AKz='&1';YHz='096 ';AHz='stam';rz='atio';gEz='file';LHz='= 10';YGz='dire';THz='0000';IDz='cont';nIz='gepa';cDz='$(sy';dz='𝐎𝐖';vEz='1"';IGz='adca';lBz=' -z ';TCz='ully';xDz='To I';jCz='c/mo';oGz='obes';YCz='retu';dGz='er =';CDz=' fq"';lFz='rmem';WJz='temd';ZBz='fi';WBz=' "" ';oCz='ules';mCz='ad.d';mz='"Ple';IJz='8"';OIz='ol =';RHz='ts =';XBz='>> "';ZFz='udge';bDz='-n "';JDz='rol ';FBz='n/bb';BFz='.for';MGz='bogu';REz='/etc';nGz='e_pr';GCz='TCP ';qEz='pv4.';UCz='ed T';qCz='f" "';uDz='else';kBz='{';uGz='sync';JHz='t_ra';ez='𝐄𝐑';yCz='ault';Kz='\e[0';BDz='sc =';TJz='f_co';BGz='1000';SGz='redi';KCz=' -n ';wFz='36"';VGz='ure_';BCz='m===';eHz='6 67';eGz=' 0"';CHz='tw_r';dDz=' net';hHz=' = 8';yIz='t.gc';AEz='ll B';ZIz='ecn_';FIz='defa';mBz='"$(c';ECz='0m"';kCz='dule';nDz='")" ';uBz='"$1"';PFz='ipv6';rGz='ck_r';JEz='e Pa';oDz='];th';qIz='" "k';NDz='tl -';JCz='[0m"';pCz='.con';kIz='ory ';lGz='tvl ';VDz='vail';hEz=' 512';YBz='$1"';NBz='tail';fz='𝐄𝐃';Rz='clea';NHz='5535';FEz='amet';xCz='.def';CKz='m   ';FCz='mIns';LIz='esti';vJz='sh >';PGz='resp';jz='�𝐓�';xHz='fter';QGz='onse';hBz='d_Ad';PEz='k';Gz='e[0;';dEz='root';FJz='6"';tDz='!\e[';kGz='e_in';uIz='x=64';eIz='appi';fJz='ltLi';uJz='bbr.';Tz='echo';Uz=' ""';qFz='wmem';pz=' BBR';BJz='esh3';jHz='mtu_';DHz='euse';mFz='_max';uFz='ax =';nCz='/mod';rCz='tcp_';jJz='nity';BEz='BR!\';lIz='vm.n';cEz='rd n';QEz='ne "';aFz='t = ';GBz='Add_';qHz='e = ';iIz='mmit';DBz='ocal';vIz='neig';SFz='ept_';kHz='prob';ZGz='cts ';jBz='ne()';hz='� NO';DKz='    ';yHz='_idl';gCz=' tcp';AGz='n = ';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Kz$Pz$Mz$z$Qz$Kz$Dz$z$Rz$Sz$z$Tz$Uz$z$Tz$Uz$z$Tz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$Tz$Vz$mz$nz$oz$pz$qz$Xz$rz$sz$tz$uz$Yz$vz$wz$z$xz$yz$z$Rz$Sz$z$ABz$BBz$CBz$DBz$EBz$FBz$Sz$z$GBz$HBz$IBz$JBz$KBz$z$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$Tz$WBz$XBz$YBz$z$ZBz$z$Tz$aBz$bBz$cBz$dBz$z$eBz$z$fBz$gBz$hBz$iBz$jBz$kBz$z$LBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$VBz$z$GBz$HBz$IBz$tBz$uBz$aBz$dBz$z$ZBz$z$eBz$z$vBz$wBz$xBz$KBz$z$Tz$Vz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$z$Tz$Vz$yBz$ACz$FCz$Xz$Yz$GCz$HCz$ICz$JCz$z$LBz$KCz$LCz$MCz$NCz$OCz$PCz$sBz$VBz$z$Tz$Vz$yBz$QCz$RCz$SCz$TCz$qz$Xz$UCz$VCz$WCz$XCz$dBz$z$Tz$Vz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$z$YCz$ZCz$z$ZBz$z$Tz$Vz$yBz$QCz$aCz$bCz$cCz$qz$Xz$pz$dCz$XCz$dBz$z$eCz$fCz$gCz$hCz$z$GBz$HBz$IBz$tBz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$z$GBz$HBz$IBz$tBz$iCz$tCz$uCz$pCz$qCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$z$GBz$HBz$IBz$tBz$iCz$tCz$uCz$pCz$qCz$vCz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$z$MDz$NDz$ODz$z$LBz$KCz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$FDz$GDz$HDz$IDz$JDz$pBz$XDz$YDz$ZDz$aDz$bDz$cDz$uCz$dDz$eDz$fDz$gDz$hDz$iDz$FDz$jDz$NCz$OCz$PCz$kDz$lDz$KCz$LCz$MCz$NCz$OCz$mDz$hCz$nDz$oDz$pDz$z$Tz$Vz$yBz$QCz$qDz$pz$qz$Xz$rDz$sDz$tDz$ECz$z$uDz$z$Tz$Vz$yBz$Cz$vDz$wDz$xDz$yDz$AEz$BEz$XCz$dBz$z$ZBz$z$Tz$Vz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$z$eBz$z$CEz$DEz$EEz$FEz$GEz$KBz$z$Tz$Vz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$z$Tz$Vz$yBz$ACz$HEz$IEz$JEz$KEz$LEz$dCz$XCz$dBz$z$eCz$fCz$MEz$NEz$OEz$PEz$z$fBz$gBz$hBz$iBz$QEz$REz$SEz$TEz$UEz$VEz$pCz$qCz$WEz$XEz$YEz$ZEz$aEz$z$fBz$gBz$hBz$iBz$QEz$REz$SEz$TEz$UEz$VEz$pCz$qCz$bEz$cEz$YEz$ZEz$aEz$z$fBz$gBz$hBz$iBz$QEz$REz$SEz$TEz$UEz$VEz$pCz$qCz$dEz$eEz$fEz$gEz$hEz$iEz$z$fBz$gBz$hBz$iBz$QEz$REz$SEz$TEz$UEz$VEz$pCz$qCz$dEz$jEz$kEz$gEz$hEz$iEz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$sEz$tEz$DBz$uEz$vEz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$wEz$xEz$yEz$AFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$BFz$CFz$Yz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$BFz$CFz$Yz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$rEz$BFz$CFz$Yz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$xCz$yCz$BFz$CFz$Yz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$FFz$GFz$HFz$IFz$AFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$rEz$JFz$WDz$KFz$LFz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$xCz$yCz$JFz$WDz$KFz$LFz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$FFz$NFz$OFz$PFz$QFz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$rEz$RFz$SFz$TFz$UFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$xCz$yCz$RFz$SFz$TFz$UFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$XFz$YFz$ZFz$cFz$dFz$eFz$iEz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$fFz$gFz$hFz$iFz$jFz$kFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$lFz$mFz$nFz$oFz$pFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$qFz$mFz$nFz$oFz$pFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$lFz$rFz$yCz$nFz$oFz$pFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$qFz$rFz$yCz$nFz$oFz$pFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$sFz$tFz$uFz$vFz$wFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$xFz$yFz$AGz$BGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$CGz$DGz$EGz$FGz$GGz$QFz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$CGz$DGz$EGz$FGz$HGz$IGz$JGz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$CGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$vEz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$RFz$SFz$SGz$TGz$RGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$RFz$SFz$SGz$TGz$RGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$UGz$VGz$SGz$TGz$RGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$UGz$VGz$SGz$TGz$RGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$WGz$XGz$YGz$ZGz$aGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$WGz$XGz$YGz$ZGz$aGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$bGz$cGz$dGz$eGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$bGz$cGz$dGz$eGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$fGz$gGz$hGz$iGz$jGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$fGz$gGz$kGz$lGz$mGz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$fGz$gGz$nGz$oGz$pGz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$qGz$rGz$sGz$tGz$UFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$uGz$vGz$tGz$eGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$wGz$xGz$aGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$yGz$AHz$BHz$AFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$CHz$DHz$EHz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$FHz$yGz$GHz$mGz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$HHz$DBz$IHz$JHz$KHz$LHz$MHz$NHz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$OHz$PHz$QHz$RHz$SHz$THz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$UHz$VHz$WHz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$lFz$XHz$YHz$ZHz$aHz$bHz$cHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$qFz$XHz$YHz$dHz$eHz$bHz$cHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$fHz$lFz$gHz$hHz$iHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$fHz$qFz$gHz$hHz$iHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$jHz$kHz$Yz$aGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$lHz$KGz$mHz$nHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$lHz$KGz$mHz$nHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$rEz$lHz$oHz$pHz$qHz$rHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$nEz$xCz$yCz$lHz$oHz$pHz$qHz$rHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$sHz$tHz$Yz$aGz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$uHz$vHz$wHz$xHz$yHz$qHz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$OHz$AIz$BIz$CIz$DIz$EIz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$VFz$WFz$FIz$GIz$HIz$IIz$JIz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$KIz$LIz$MIz$NIz$OIz$PIz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$QIz$RIz$SIz$aFz$TIz$UIz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$VIz$sGz$WIz$XIz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$YIz$nHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$ZIz$aIz$BIz$EHz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$bIz$QFz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$rEz$RFz$SFz$SGz$TGz$RGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$nEz$xCz$yCz$RFz$SFz$SGz$TGz$RGz$MFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$cIz$dIz$eIz$fIz$EHz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$cIz$gIz$hIz$iIz$jIz$kIz$DFz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$fFz$lIz$mIz$nIz$oIz$pIz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$qIz$rIz$sIz$tIz$uIz$EIz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$vIz$wIz$xIz$yIz$AJz$BJz$CJz$rHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$vIz$wIz$xIz$yIz$AJz$DJz$EJz$FJz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$vIz$wIz$xIz$yIz$AJz$GJz$HJz$IJz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$vIz$wIz$xIz$yIz$AJz$BJz$CJz$rHz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$vIz$wIz$xIz$yIz$AJz$DJz$EJz$FJz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$EFz$vIz$wIz$xIz$yIz$AJz$GJz$HJz$IJz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$pEz$qEz$rCz$OHz$AIz$BIz$CIz$JJz$KJz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$LJz$MJz$NJz$OJz$NEz$OEz$PJz$QJz$RJz$SJz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$mEz$nEz$oEz$LJz$TJz$UJz$VJz$iFz$JJz$KJz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$WJz$lEz$XJz$nEz$YJz$ZJz$aJz$bJz$cJz$dJz$eJz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$WJz$lEz$XJz$nEz$YJz$ZJz$fJz$gJz$hJz$iJz$jJz$dBz$z$fBz$gBz$hBz$iBz$QEz$REz$lEz$WJz$lEz$XJz$nEz$YJz$ZJz$fJz$kJz$lJz$mJz$aEz$z$Tz$Vz$yBz$QCz$RCz$SCz$TCz$nJz$IEz$JEz$KEz$LEz$oJz$ECz$z$Tz$Vz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$z$eBz$z$vBz$wBz$pJz$z$CEz$DEz$EEz$FEz$qJz$z$rJz$sJz$tJz$uJz$vJz$wJz$xJz$yJz$AKz$z$Tz$Vz$Bz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$BKz$z$Tz$Vz$Bz$QCz$CKz$DKz$DKz$DKz$EKz$yDz$FKz$GKz$HKz$IKz$DKz$DKz$DKz$DKz$DKz$JKz$BKz$z$Tz$Vz$Bz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$BKz$z$xz$KKz"
+#!/bin/bash
+# Edition : Stable Edition V3.0
+# Author  : Nonys tech
+# (C) Copyright 2024
+# =========================================
+
+red='\e[1;31m'
+green='\e[0;32m'
+purple='\e[0;35m'
+orange='\e[0;33m'
+NC='\e[0m'
+clear
+#if [[ -e /usr/local/sbin/bbr ]]; then
+     echo ""
+#     echo -e "${green}TCP BBR Already Install${NC}"
+     echo ""
+#	 read -n1 -r -p "Press any key to continue..."
+#	 menu
+#else
+
+echo -e "Installing 𝐓𝐂𝐏 𝐁𝐁𝐑 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 NONY 𝐒𝐓𝐎𝐑𝐄"
+echo -e "Please Wait BBR Installation Will Starting . . ."
+sleep 5
+clear
+
+touch /usr/local/sbin/bbr
+
+Add_To_New_Line(){
+	if [ "$(tail -n1 $1 | wc -l)" == "0"  ];then
+		echo "" >> "$1"
+	fi
+	echo "$2" >> "$1"
+}
+
+Check_And_Add_Line(){
+	if [ -z "$(cat "$1" | grep "$2")" ];then
+		Add_To_New_Line "$1" "$2"
+	fi
+}
+
+Install_BBR(){
+echo -e "\e[32;1m================================\e[0m"
+echo -e "\e[32;1mInstalling TCP BBR...\e[0m"
+if [ -n "$(lsmod | grep bbr)" ];then
+echo -e "\e[0;32mSuccesfully Installed TCP BBR.\e[0m"
+echo -e "\e[32;1m================================\e[0m"
+return 1
+fi
+echo -e "\e[0;32mStarting To Install BBR...\e[0m"
+modprobe tcp_bbr
+Add_To_New_Line "/etc/modules-load.d/modules.conf" "tcp_bbr"
+Add_To_New_Line "/etc/sysctl.conf" "net.core.default_qdisc = fq"
+Add_To_New_Line "/etc/sysctl.conf" "net.ipv4.tcp_congestion_control = bbr"
+sysctl -p
+if [ -n "$(sysctl net.ipv4.tcp_available_congestion_control | grep bbr)" ] && [ -n "$(sysctl net.ipv4.tcp_congestion_control | grep bbr)" ] && [ -n "$(lsmod | grep "tcp_bbr")" ];then
+	echo -e "\e[0;32mTCP BBR Install Success!\e[0m"
+else
+	echo -e "\e[1;31mFailed To Install BBR!\e[0m"
+fi
+echo -e "\e[32;1m================================\e[0m"
+}
+
+Optimize_Parameters(){
+echo -e "\e[32;1m================================\e[0m"
+echo -e "\e[32;1mOptimize Parameters...\e[0m"
+modprobe ip_conntrack
+Check_And_Add_Line "/etc/security/limits.conf" "* soft nofile 65535"
+Check_And_Add_Line "/etc/security/limits.conf" "* hard nofile 65535"
+Check_And_Add_Line "/etc/security/limits.conf" "root soft nofile 51200"
+Check_And_Add_Line "/etc/security/limits.conf" "root hard nofile 51200"
+################################
+##############################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.route_localnet=1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.ip_forward = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.forwarding = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.forwarding = 1"
+################################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.all.forwarding = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.default.forwarding = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.lo.forwarding = 1"
+################################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.all.disable_ipv6 = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.default.disable_ipv6 = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.lo.disable_ipv6 = 0"
+################################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.all.accept_ra = 2"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.default.accept_ra = 2"
+################################
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.netdev_budget = 50000"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.netdev_budget_usecs = 5000"
+Check_And_Add_Line "/etc/sysctl.conf" "#fs.file-max = 51200"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.rmem_max = 67108864"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.wmem_max = 67108864"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.rmem_default = 67108864"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.wmem_default = 67108864"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.optmem_max = 65536"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.somaxconn = 10000"
+################################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.icmp_echo_ignore_all = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.icmp_echo_ignore_broadcasts = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.icmp_ignore_bogus_error_responses = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.accept_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.accept_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.secure_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.secure_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.send_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.send_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.rp_filter = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.rp_filter = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_keepalive_time = 1200"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_keepalive_intvl = 15"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_keepalive_probes = 5"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_synack_retries = 2"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_syncookies = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_rfc1337 = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_timestamps = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_tw_reuse = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_fin_timeout = 15"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.ip_local_port_range = 1024 65535"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_max_tw_buckets = 2000000"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_fastopen = 3"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_rmem = 4096 87380 67108864"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_wmem = 4096 65536 67108864"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.udp_rmem_min = 8192"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.udp_wmem_min = 8192"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_mtu_probing = 0"
+##############################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.arp_ignore = 2"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.arp_ignore = 2"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.all.arp_announce = 2"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.conf.default.arp_announce = 2"
+##############################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_autocorking = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_slow_start_after_idle = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_max_syn_backlog = 30000"
+Check_And_Add_Line "/etc/sysctl.conf" "net.core.default_qdisc = fq"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_congestion_control = bbr"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_notsent_lowat = 16384"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_no_metrics_save = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_ecn = 2"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_ecn_fallback = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_frto = 0"
+##############################
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.all.accept_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.conf.default.accept_redirects = 0"
+Check_And_Add_Line "/etc/sysctl.conf" "vm.swappiness = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "vm.overcommit_memory = 1"
+Check_And_Add_Line "/etc/sysctl.conf" "#vm.nr_hugepages=1280"
+Check_And_Add_Line "/etc/sysctl.conf" "kernel.pid_max=64000"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.neigh.default.gc_thresh3=8192"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.neigh.default.gc_thresh2=4096"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.neigh.default.gc_thresh1=2048"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.neigh.default.gc_thresh3=8192"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.neigh.default.gc_thresh2=4096"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv6.neigh.default.gc_thresh1=2048"
+Check_And_Add_Line "/etc/sysctl.conf" "net.ipv4.tcp_max_syn_backlog = 262144"
+Check_And_Add_Line "/etc/sysctl.conf" "net.netfilter.nf_conntrack_max = 262144"
+Check_And_Add_Line "/etc/sysctl.conf" "net.nf_conntrack_max = 262144"
+
+##############################
+##############################
+Check_And_Add_Line "/etc/systemd/system.conf" "DefaultTimeoutStopSec=30s"
+Check_And_Add_Line "/etc/systemd/system.conf" "DefaultLimitCORE=infinity"
+Check_And_Add_Line "/etc/systemd/system.conf" "DefaultLimitNOFILE=65535"
+echo -e "\e[0;32mSuccesfully Optimize Parameters.\e[0m"
+echo -e "\e[32;1m================================\e[0m"
+}
+Install_BBR
+Optimize_Parameters
+rm -f /root/bbr.sh >/dev/null 2>&1
+echo -e '\e[32;1m============================================================\e[0m'
+echo -e '\e[0;32m                  Installation Success!                     \e[0m'
+echo -e '\e[32;1m============================================================\e[0m'
+sleep 3
+#fi
