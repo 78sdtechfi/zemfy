@@ -132,45 +132,7 @@ function is_root() {
 
 }
 
-function reinstall_haproxy() {
-  # Stop existing HAProxy service
-  sudo systemctl stop haproxy
 
-  # Uninstall existing HAProxy package
-  sudo apt remove haproxy
-
-  # Determine OS and install HAProxy accordingly
-  if [[ $( cat /etc/os-release | grep -w ID | head -n1 | sed 's/=//g' | sed 's/"//g' | sed 's/ID//g' ) == "ubuntu" ]]; then
-    # For Ubuntu
-    sudo apt update -y
-    apt-get install --no-install-recommends software-properties-common
-    add-apt-repository ppa:vbernat/haproxy-2.0 -y
-    apt-get -y install haproxy=2.0.\*
-  elif [[ $( cat /etc/os-release | grep -w ID | head -n1 | sed 's/=//g' | sed 's/"//g' | sed 's/ID//g' ) == "debian" ]]; then
-    # For Debian
-    curl https://haproxy.debian.net/bernat.debian.org.gpg | gpg --dearmor >/usr/share/keyrings/haproxy.debian.net.gpg
-    echo deb "[signed-by=/usr/share/keyrings/haproxy.debian.net.gpg]" http://haproxy.debian.net buster-backports-1.8 main >/etc/apt/sources.list.d/haproxy.list
-    sudo apt-get update
-    apt-get -y install haproxy=1.8.\*
-  else
-    echo "Unsupported operating system."
-    return 1
-  fi
-
-  # Download and configure HAProxy configuration file
-  REPO="https://raw.githubusercontent.com/78sdtechfi/zemfy/main/"
-  wget -O /etc/haproxy/haproxy.cfg "${REPO}ubuntu/haproxy.cfg" >/dev/null 2>&1
-  sed -i "s/xxx/${domain}/g" /etc/haproxy/haproxy.cfg
-
-  # Combine SSL certificates
-  cat /etc/xray/xray.crt /etc/xray/xray.key > /etc/haproxy/hap.pem
-
-  # Start and enable HAProxy service
-  systemctl enable --now haproxy
-}
-
-# Call the function to reinstall HAProxy
-reinstall_haproxy
 # Buat direktori xray
 print_install "Create xray directory"
     mkdir -p /etc/xray
@@ -975,7 +937,7 @@ clear
     ins_restart
     menu
     profile
-    reinstall_haproxy
+
     enable_services
     restart_system
     
